@@ -32,9 +32,3 @@ const lib = [
 module.exports = lib;
 
 
-// std
-// immediate
-// div / divu / mult / multu /
-// sll / sra
-// srl
-// syscall
